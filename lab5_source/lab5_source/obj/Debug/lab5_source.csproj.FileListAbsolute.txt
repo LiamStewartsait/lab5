@@ -1,0 +1,7 @@
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\bin\Debug\lab5_source.exe.config
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\bin\Debug\lab5_source.exe
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\bin\Debug\lab5_source.pdb
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\obj\Debug\lab5_source.csproj.AssemblyReference.cache
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\obj\Debug\lab5_source.csproj.CoreCompileInputs.cache
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\obj\Debug\lab5_source.exe
+C:\Users\ljste\Documents\oop\lab5\lab5_source\lab5_source\obj\Debug\lab5_source.pdb
